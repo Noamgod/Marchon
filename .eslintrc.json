@@ -6,7 +6,6 @@
     "no-unused-vars": "warn",
     "eqeqeq": "error",
     "no-trailing-spaces": "error",
-    "object-curly-spacing": ["warn", "always"],
     "arrow-spacing": ["warn", { "before": true, "after": true }],
     "react/prop-types": 0
   }
